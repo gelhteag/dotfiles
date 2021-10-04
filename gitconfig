@@ -49,3 +49,6 @@
 
 [pull]
   rebase = false
+[user]
+	email = tobiours25@gmail.com
+	name = Legrand Gaethan
